@@ -1,0 +1,6 @@
+{
+  "name": "TruthGuard AI - Fake News Classification System",
+  "description": "Commercial-grade AI and Machine Learning platform to detect, classify, and explain real versus fake news articles with multi-model NLP evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
